@@ -11,7 +11,7 @@ numarului de puncte folosite pentru desenarea cercurilor.
 
 Avionul este realizat cu un singur Model Matrix asupra careia au fost aplicate diverse transformari 3D pentru 
 a o putea randa in diferite pozitii. Folosirea unei singure matrice conduce la miscarea facila si unitara a avionului.
-Exceptie face corpul avionului care a fost desenat folosind triunghiuri pentru un control mai fin grosimii acestuia.
+Exceptie face corpul avionului care a fost desenat folosind triunghiuri pentru un control mai fin a grosimii acestuia.
 Astfel se poate obtine un efect de deformare selectiva.
 
 Fundalul este alcatuit din nori care se invart in jurul marii. Norii sunt desenati din cate trei cuburi care se rotesc 
